@@ -1,0 +1,10 @@
+/*  Belajar Specifily untuk mengatasi mengapa elemen ini tidak berubah, karena berat yang berbeda */
+/* Yang paling berat akan menang */
+
+ul#sarapan li {
+    color: green;
+}
+
+ul#sarapan li.favorit {
+    color: red;
+}
