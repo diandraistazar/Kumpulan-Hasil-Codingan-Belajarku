@@ -1,0 +1,8 @@
+body {
+    color: red;
+}
+
+/* Gunakan perintah seperti ini jika terjadi tag tidak mewarisi warna */
+a {
+    color: inherit;
+}
