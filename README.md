@@ -4,3 +4,4 @@ Mungkin saja hasil codingan yang saya simpan di repo ini membantu kamu untuk bel
 Di folder JavaScript, setiap latihannya aku selalu membuat comment mengenai pembelanjaranku, jadi jangan ragu untuk membuka dan mempelajarinya :).
 
 Izin fork ya repo punya Diandra, mau belajar GitHub
+Akhirnya sudah aku hubungkan dengan Githubku
