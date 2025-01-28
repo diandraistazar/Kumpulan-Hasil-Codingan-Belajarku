@@ -1,1 +1,0 @@
-alert('What is wrong with you?');
