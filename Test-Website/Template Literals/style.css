@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: arial,sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(235, 235, 235);
+}
+
+.data {
+    width: 280px;
+    height: 340px;
+    background-color: rgb(36, 36, 36);
+    color: white;
+    cursor: pointer;
+
+    overflow: hidden;
+    float: left;
+    margin: 10px;
+    padding:4px;
+    border-radius: 5%;
+    transform: scale(1);
+    transition: .2s transform;
+}
+
+.data:hover {
+    transform: scale(1.01);
+}
+
+.profile {
+    width: 100%;
+    border-radius: 5%;
+}
+
+.info {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+
+    font-size: 1.5rem;
+    margin-top: 15px;
+
+    letter-spacing: 2px;
+}
+
+.info .nama > .sp  {
+    letter-spacing: 0;
+    font-weight: 600;
+}
