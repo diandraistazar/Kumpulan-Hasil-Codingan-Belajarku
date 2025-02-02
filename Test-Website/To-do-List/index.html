@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do-List</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Liter&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="window-list off">
+        <div class="window">
+            <span class="input-window input1">
+                <h3>Judul :</h3>
+            <input type="text" class="input-an" id="inputname" placeholder="Masukkan Judul" maxlength="16">
+        </span>
+        <span class="input-window input2">
+            <h5>Deskripsi :</h5>
+            <textarea class="input-an" id="inputdesk" placeholder="Deskripsi (Optional)"></textarea>
+            </span>
+        <span class="close">
+            <button id="cancel-button">Cancel</button>
+            <button id="ok-button">Ok</button>
+        </span>
+        </div>
+        <div class="overlay"></div>
+    </div>
+    <div class="button-bottom">
+        <div class="add-list">
+            <img src="svg/plus.svg">
+            <span>Add List</span>
+        </div>
+    </div>
+    <div class="container">
+
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

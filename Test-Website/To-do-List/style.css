@@ -1,0 +1,152 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Work Sans',sans-serif;
+    box-sizing: border-box;
+}
+
+.container {
+    overflow: auto;
+}
+
+.listed {
+    border-radius: 10px;
+    margin: 10px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 100px;
+    padding: 10px;
+    background-color: rgba(136, 18, 130, 0.774);
+    color: white;
+    font-size: 20px;
+    transform: scale(1);
+    transition: .3s transform;
+}
+.listed:hover {
+    transform: scale(1.05);
+}
+
+.listed .title-of-list {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.listed date {
+    font-size: 1em;
+    font-weight: 200;
+}
+
+.add-list > img {
+    width: 40px;
+}
+.add-list {
+    background-color: rgb(79, 168, 190);
+    display: flex;
+    align-items: center;
+    width: 210px;
+    padding: 5px;
+
+    border-radius: 40px;
+    cursor: pointer;
+    transition: .3s background-color;
+}
+.add-list:hover {
+    background-color: rgb(106, 206, 231);
+}
+.add-list > * {
+    padding: 10px;
+}
+.add-list > span {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: white;
+}
+
+
+.button-bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px; 
+    padding: 20px;
+    z-index: -9999;
+}
+
+
+.window-list {
+   width: 100%; 
+   height: 100vh;
+   position: relative;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.window-list .window {
+    background-color: rgb(238, 238, 238);
+    padding: 20px;
+
+    width: 600px;
+    height: 430px;
+
+    font-size: 20px;
+    border-radius: 5%;
+
+    letter-spacing: 1px;
+}
+
+.window-list .window textarea, .window-list .window input {
+    width: 100%;
+    padding: 5px;
+}
+
+.window-list .window #inputname {
+    font-size: 1.4em;
+    padding: 5px;
+}
+.window-list .window #inputdesk {
+    resize: none;
+    text-overflow: clip;
+    font-size: 1em;
+    height: 160px;
+}
+.window-list .window h3, .window-list .window h5 {
+    padding-bottom: 10px;
+}
+.window-list .window h5 {
+    margin-top: 20px;
+}
+
+.close {
+    margin-top: 10px;
+    padding: 5px;
+    display: flex;
+    justify-content: end;
+}
+.close > * {
+    font-size: 1.3em;
+    font-weight: bold;
+    border: none;
+    background-color: rgb(204, 204, 204);
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 5px;
+
+    cursor: pointer;
+}
+
+.overlay {
+    background-color: rgba(0, 0, 0, 0.479);
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    z-index: -9999;
+    filter: blur(1px);
+}
+
+.off {
+    display: none;
+}

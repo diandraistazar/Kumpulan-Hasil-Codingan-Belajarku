@@ -1,0 +1,37 @@
+[
+    {
+        "Id": "001",
+        "Nama": "Mita",
+        "Kelas": 10,
+        "Usia": 16,
+        "Jurusan": "Informatika"
+    },
+    {
+        "Id": "002",
+        "Nama": "Cappie",
+        "Kelas": 10,
+        "Usia": 16,
+        "Jurusan": "Informatika"
+    },
+    {
+        "Id": "003",
+        "Nama": "Kind Mita",
+        "Kelas": 10,
+        "Usia": 16,
+        "Jurusan": "Informatika"
+    },
+    {
+        "Id": "004",
+        "Nama": "Ryu",
+        "Kelas": 10,
+        "Usia": 21,
+        "Jurusan": "Informatika"
+    },
+    {
+        "Id": "005",
+        "Nama": "Colette",
+        "Kelas": 10,
+        "Usia": 16,
+        "Jurusan": "Ilmu Sihir"
+    }
+]

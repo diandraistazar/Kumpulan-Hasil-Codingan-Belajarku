@@ -1,20 +1,18 @@
-let prima = [];
-
-function isPrime(n) {
-    if ( n <= 2 ) {
-        prima.push(n)
-        return true
-    }
+function getInnerFile(file) {
+    let xhr = new XMLHttpRequest;
     
-    for ( let i = 2; i < n; i++ ) {
-        if ( n % i === 0 ) return false
-    }
+    xhr.onreadystatechange = function() {
+        if ( xhr.readyState === 4 && xhr.status === 200 ) {
+            console.info(xhr.response)
+        }
+        else if ( xhr.status === 404 ) {
+            console.info("ERROR")
+        }
+    } // menunggu respon dari xhr
     
-    prima.push(n)
-    return true
+    xhr.open('get',file);
+    xhr.send();
+    console.info("Permintaan dikirim")
 }
 
-for ( let i = 1; i <= 100; i++ ) {
-    console.info(`${i}: ${isPrime(i) ? `Prima` : `Not`}`)
-}
-console.info(prima)
+getInnerFile('teks.txt')
