@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body {
+    position: relative;
+}
+
 .container {
     overflow: auto;
 }
@@ -83,6 +87,7 @@
    display: flex;
    justify-content: center;
    align-items: center;
+    position: absolute;
 }
 
 .window-list .window {
