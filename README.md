@@ -7,12 +7,17 @@ Ini repo untuk menyimpan hasil codingan belajarku yak, karena kalau disimpan di 
 Mungkin saja hasil codingan yang saya simpan di repo ini membantu kamu untuk belajar coding lewat hasil pembelanjaranku.
 Di folder JavaScript, setiap latihannya aku selalu membuat comment mengenai pembelanjaranku, jadi jangan ragu untuk membuka dan mempelajarinya :).
 
+edit: Aku pindah ke Bahasa C dan C++, karena aku pengen membuat software serta mempelajari bahasa ini dapat membantu menguatkan pemahaman ku mengenai Cyber Security ❓. Sepertinya aku harus Study Harder untuk mencapai keinginan ku ini . <b>Diedit 15:39 | 03 Februari 2025</b>
+
 Catatan 📝
+<br>
 ❌ = belum/tidak
+<br>
 ✅ = sudah/iya
+<br>
 ❓ = mungkin
 
 Goal ku ⭐
-- Web Fullstack Developer ❌
+- <s>Web Fullstack Developer </s>
 - Software Developer ❌
 - Cyber Security ❌
