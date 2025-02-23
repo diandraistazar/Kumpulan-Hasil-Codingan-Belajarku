@@ -19,5 +19,5 @@ Catatan 📝
 
 Goal ku ⭐
 - <s>Web Fullstack Developer </s>
-- Software Developer ❌
+- <s>Software Developer</s>
 - Cyber Security ❌
