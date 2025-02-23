@@ -9,7 +9,7 @@ Di folder JavaScript, setiap latihannya aku selalu membuat comment mengenai pemb
 
 <s>edit: Aku pindah ke Bahasa C dan C++, karena aku pengen membuat software serta mempelajari bahasa ini dapat membantu menguatkan pemahaman ku mengenai Cyber Security ❓. Sepertinya aku harus Study Harder untuk mencapai keinginan ku ini . <b>Diedit 15:39 | 03 Februari 2025</b></s>
 
-edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman (Python, C, C++) serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
+edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman (Python, C, C++) serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya aku harus Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
 
 Catatan 📝
 <br>
