@@ -1,0 +1,81 @@
+A. Apa itu Cyber Security?
+Secara singkat, Cyber Security adalah bidang pekerjaan yang tugasnya untuk menjaga data digital. Itu secara singkat. Kalau spesifiknya, Cyber Security adalah seseorang yang ahli komputer dan bertugas melindungi dan data digital dari ancaman siber (dunia maya/internet).
+
+Dalam Cyber Security itu terdapat "Prinsip" yang harus diterapkan di bidang ini yakni CIA triangle
+	C = Confidentiality
+	I = Integrity
+	A = Availability
+
+- Confidentiality artinya Kerahasiaan, jadi informasi bersifat rahasia dan tidak dapat sembarang orang untuk mengakses-nya
+- Integrity artinya Keutuhan, jadi informasi bentuknya utuh tidak ada modifikasi apa-pun
+- Availability artinya Ketersediaan, jadi informasi harus dapat dikapanpun dan dimanapun saat dibutunkan
+
+
+
+B. Istilah Dalam Dunia Cyber Security
+a. Thearts (Ancaman)
+	Thearts adalah ancaman pada sistem yang dapat mencuri data atau menghancurkan sistem. Ancaman dapat berupa internal maupun eksternal.
+
+b. Vulnerability (Kerentanan)
+	Vulnerability atau kerentanan adalah kelemahan pada sistem yang dapat di eksplotasi (dimanfaatkan) oleh penyerang.
+
+c. Risk (Risiko)
+	Risk atau Risiko adalah prediksi dampak dari ancaman yang memanfaatkan kerentanan, baik mungkin akan kehilangan data atau kerusakan sistem serta lain-lain.
+
+	Cara mengelola risiko, jika saja risiko benar terjadi:
+	- Mitigation (Mitigasi)
+		Mengurangi Kemungkinan terjadinya risiko dengan menutup kerentanan pada sistem
+	atau mengurangi dampaknya.
+
+	- Avoidance (Penghindaran)
+		Menghindari aktivitas yang dapat menyebabkan risiko tersebut
+
+	- Transfer (Pemindahan)
+		Memindahkan risiko ke pihak lain seperti menggunakan aplikasi pihak ketika yang
+	lebih aman.
+
+	- Acceptance (Penerimaan)
+		Menerima risiko jika biaya mengurangi bahaya lebih besar dari dampak dari risiko 	yang terjadi.
+
+d. Impact (Dampak)
+	Kerugian yang terjadi jika risiko tersebut benar terjadi
+
+e. Likelihood (Kemungkinan)
+	Gambaran tentang kemungkinan ancaman eksplotasi kerentanan, apakah karena rentan bagian ini yang belum diperbarui, atau sebagainya.
+
+
+
+C. Risk Register (Daftar Risiko)
+	Risk Register adalah sebuah dokumen untuk mencatat dan mengelola risiko yang ditemukan dalam projek, organisasi, atau sistem
+
+	Dengan Risk Register, tim dapat memiliki gambaran jelas mengenai risiko-risiko yang ada, bagaimana cara mengelola-nya, dan siapa yang bertanggung jawab untuk mengurangi dampaknya.
+
+
+
+D. Social Engineering (Rekayasa Sosial)
+	Ini adalah teknik memanipulasi psikologis manusia oleh penyerang untuk membujuk atau memanipulasi orang agar mengungkapkan informasi sensitif atau melakukan tindakan yang menguntungkan penyerang
+
+Teknik sering digunakan pada Social Engineering :
+1. Phising
+Penyerang memberikan email atau link palsu kepada korban yang tampak sah untuk membujuk memberikan atau melakukan sesuatu.
+
+2. Spear Phising
+Lebih canggih dari Phising, yang mana penyerang menargetkan seseorang dan menyesuaikan pesan agar lebih menyakinkan, mirip seperti pesan dari organisasi resmi.
+
+3. Pretexting
+Penyerang menjadi seperti orang lain yang seolah dipercaya untuk meminta informasi mengenai korban, seperti berpura-pura dari pihak yang berwenang atau dari atasan.
+
+4. Baiting
+Penyerang menawarkan sesuatu yang dapat menggoda korban untuk memberikan atau melakukan sesuatu untuk menyerang.
+
+5. Tailgatting (PiggyBacking)
+Penyerang mengikuti seseorang yang memiliki akses ke area tertentu tanpa izin mereka, dengan tujuan memasuki area terbatas tanpa izin.
+
+
+
+E. Attack Surfaces and Threat Modeling (Serangan terhadap perangkat dan ancaman)
+a. Attack Surfaces
+Attack Surfaces adalah seluruh titik atau bagian sistem yang dapat di eksplotasi oleh penyerang. Sederhananya, ini mencakup semua tempat yang bisa menjadi pintu masuk bagi penyerang.
+
+b. Threat Modeling
+Threat Modeling (Pemodelan Ancaman) proses analisi ancaman dan merencanakan mitigasi terhadap ancaman dari titik-titik yang dapat di eksplotasi oleh penyerang.
