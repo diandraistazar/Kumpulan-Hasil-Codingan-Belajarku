@@ -7,7 +7,9 @@ Ini repo untuk menyimpan hasil codingan belajarku yak, karena kalau disimpan di 
 Mungkin saja hasil codingan yang saya simpan di repo ini membantu kamu untuk belajar coding lewat hasil pembelanjaranku.
 Di folder JavaScript, setiap latihannya aku selalu membuat comment mengenai pembelanjaranku, jadi jangan ragu untuk membuka dan mempelajarinya :).
 
-edit: Aku pindah ke Bahasa C dan C++, karena aku pengen membuat software serta mempelajari bahasa ini dapat membantu menguatkan pemahaman ku mengenai Cyber Security ❓. Sepertinya aku harus Study Harder untuk mencapai keinginan ku ini . <b>Diedit 15:39 | 03 Februari 2025</b>
+<s>edit: Aku pindah ke Bahasa C dan C++, karena aku pengen membuat software serta mempelajari bahasa ini dapat membantu menguatkan pemahaman ku mengenai Cyber Security ❓. Sepertinya aku harus Study Harder untuk mencapai keinginan ku ini . <b>Diedit 15:39 | 03 Februari 2025</b></s>
+
+edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman (Python, C, C++) serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
 
 Catatan 📝
 <br>
