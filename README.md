@@ -4,22 +4,10 @@ Hai!, Perkenalkan aku Diandra, seorang programmer pemula yang masih tahap pembel
 
 Ini repo untuk menyimpan hasil codingan belajarku yak, karena kalau disimpan di Drive, kelama-kelamaan nanti jadi penuh juga. Sekaligus inginku jadikan catatan histori bahwa aku belajar coding :3.
 
-Mungkin saja hasil codingan yang saya simpan di repo ini membantu kamu untuk belajar coding lewat hasil pembelanjaranku.
-Di folder JavaScript, setiap latihannya aku selalu membuat comment mengenai pembelanjaranku, jadi jangan ragu untuk membuka dan mempelajarinya :).
+edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya aku harus Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
 
-<s>edit: Aku pindah ke Bahasa C dan C++, karena aku pengen membuat software serta mempelajari bahasa ini dapat membantu menguatkan pemahaman ku mengenai Cyber Security ❓. Sepertinya aku harus Study Harder untuk mencapai keinginan ku ini . <b>Diedit 15:39 | 03 Februari 2025</b></s>
+<b>Bahasa Pemrogramman</b>
+- Lua
 
-edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman (Python, C, C++) serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya aku harus Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
-
-Catatan 📝
-<br>
-❌ = belum/tidak
-<br>
-✅ = sudah/iya
-<br>
-❓ = mungkin
-
-Goal ku ⭐
-- <s>Web Fullstack Developer </s>
-- <s>Software Developer</s>
-- Cyber Security ❌
+<b>Goal ku ⭐</b>
+- Cyber Security
