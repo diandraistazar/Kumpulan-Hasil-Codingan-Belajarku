@@ -6,7 +6,7 @@ Ini repo untuk menyimpan hasil codingan belajarku yak, karena kalau disimpan di 
 
 edit: Aku belajar Networking, Sistem Operasi, Bahasa Pemogramman serta hal lainnya yang harus dipelajari di bidang cyber security. Sepertinya aku harus Study Harder :3, semoga aku bisa. <b>Diedit 21:33 | 23 Februari 2025</b>
 
-<b>Bahasa Pemrogramman</b>
+<b>Bahasa Pemrogramman yang dipelajari (akhir ini) </b>
 - Lua
 
 <b>Goal ku ⭐</b>
