@@ -13,7 +13,7 @@ void clear();
 
 char *questions[][4] = 
 {
-//	*Questions (0)															*The correct Answers (1)		*Another options (2-3)
+//	*Questions (0)															*The correct Answers (1)		*Answers(2)				*Answers(3)
 	{"Siapa itu Linus Torvalds?", 											"Penemu kernel linux",			"Penemu Windows",		"Penemu FreeFire"},
 	{"Manakah Window manager tersebut yang dikonfigurasi dalam bahasa C?",	"DWM",							"AWESOME",				"i3"},
 	{"Manakah sambungan yang tepat untuk \"i use ****\"?",					"arch",							"ubuntu",				"fedora"},
@@ -22,12 +22,13 @@ char *questions[][4] =
 };
 int siz_rows = sizeof(questions)/sizeof(questions[0]);
 int siz_colums = sizeof(questions[0])/sizeof(questions[0][0]);
+
 char pilihan[] = {'A', 'B', 'C'};
 
 int main()
 {
 	char user_input;
-	int user_input_convert;
+	int user_input_convert; //berfungsi mengkonversi user_input menjadi character uppercase
 	int BENAR = 0;
 	int SALAH = 0;
 
