@@ -20,8 +20,8 @@ Hal yang telah dipelajari :
             - Jenis serangan siber DoS, DDoS, MAITM, packet sniffing dan lainnya (belum)
 
         - Bahasa Pemrogramman
-            - C (belum)
-            - Python (belum)
+            - C (telah dipelajari)
+            - Assembly (sedang dipejari)
 
         - Bahasa Scripting
             - Bash (telah dipelajari)
